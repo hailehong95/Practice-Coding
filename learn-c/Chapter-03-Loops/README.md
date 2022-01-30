@@ -1,0 +1,17 @@
+- ch03-01: Tính giá trị các biểu thức
+- ch03-02: Tìm ra chữ số lớn nhất và nhỏ nhất trong một số có nhiều chữ số
+- ch03-03: Số đối xứng
+- ch03-04: Số chính phương
+- ch03-05: Số nguyên tố
+- ch03-06: Đăng nhập
+- ch03-07: Nhập mật khẩu
+- ch03-08: Dãy siêu tăng
+- ch03-09: Đếm và tính tổng các loại số trong đoạn [a, b]
+- ch03-10: Số có tích bằng 2 lần tổng
+- ch03-11: Ước chung lớn nhất của hai số
+- ch03-12: Dãy Fibonacy
+- ch03-13: Thối tiền hợp lý
+- ch03-14: Rút gọn phân số
+- ch03-15: Đọc số lớn
+- ch03-16: Đồng hồ bấm giây điện tử
+- ch03-17: Game tôm cua bầu

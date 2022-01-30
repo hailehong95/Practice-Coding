@@ -1,0 +1,21 @@
+- ch02-01: Min/Max 2/3 số
+- ch02-02: Giải phương trình bậc 1
+- ch02-03: Đọc số có 2 chữ số
+- ch02-04: Đọc số có 3 chữ số
+- ch02-05: Tính lương nhân viên
+- ch02-06: Tính tiền Karaoke (theo các khung giờ)
+- ch02-07: Giải phương trình bậc 2
+- ch02-08: Giải phương trình bậc 4
+- ch02-09: Tính số ngày một tháng
+- ch02-10: Kiểm tra tam giác
+- ch02-11: Sinh số ngẫu nhiên trong đoạn
+- ch02-12: In ký tự hoa-thường
+- ch02-13: Giải hệ phương trình bậc 1
+- ch02-14: Tính ngày trước-sau
+- ch02-15: Số chính phương
+- ch02-16: Số nguyên 2 mũ k
+- ch02-17: Game Oẳn-tù-tì
+- ch02-18: Tính dân số sau nhiều nằm
+- ch02-19: Chu vi và diện tích các hình
+- ch02-20: Máy tính mini
+- ch02-21: Chu vi và diện tích tam giác theo tọa độ

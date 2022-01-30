@@ -1,0 +1,11 @@
+- Ch06-01: Lý thuyết chuỗi 
+- Ch06-02: Chuẩn hóa chuỗi
+- Ch06-03: Đổi cơ số
+- Ch06-04: Đếm số từ trong chuỗi
+- Ch06-05: Đảo chuỗi con trong chuỗi lớn
+- Ch06-06: Chuyển đổi qua lại chuỗi và số
+- Ch06-07: Thêm và xóa một ký tự trong chuỗi
+- Ch06-08: Xây dựng các hàm thao tác với chuỗi: strcpy, strrev, strcmp, strdup,...
+- Ch06-09: Cộng hai số lớn (C Style)
+- Ch06-10: Tìm từ dài nhất trong chuỗi
+- Ch06-11: Cộng và nhân hai số lớn (C++ style)
