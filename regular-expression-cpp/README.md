@@ -1,0 +1,4 @@
+- re01-sub-string: Find and extract sub-string
+- re02-email: Check email
+- re03-vn-phone-number: Check Vietnam phone number
+- re04-domain: Check domain
