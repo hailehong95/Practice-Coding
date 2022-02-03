@@ -1,0 +1,7 @@
+dai	1	th1	3	10	5	5
+toan	2	th2	1	9	4	7
+hai	3	th3	2	9	7	5
+tuyen	4	th4	1	9	4	7
+vinh	5	th5	2	8	9	5
+
+

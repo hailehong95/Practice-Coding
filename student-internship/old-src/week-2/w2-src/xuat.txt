@@ -1,0 +1,6 @@
+hoa	9	bn	2	4	5	6	15
+dai	1	th1	3	10	5	5	20
+toan	2	th2	1	9	4	7	20
+tuyen	4	th4	1	9	4	7	20
+hai	3	th3	2	9	7	5	21
+vinh	5	th5	2	8	9	5	22
