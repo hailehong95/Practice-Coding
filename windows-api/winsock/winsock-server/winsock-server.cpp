@@ -9,7 +9,7 @@
 #include <stdio.h>
 
 // Need to link with Ws2_32.lib
-#pragma comment (lib, "Ws2_32.lib")
+#pragma comment (lib, "WS2_32.Lib")
 // #pragma comment (lib, "Mswsock.lib")
 
 #define DEFAULT_BUFLEN 512
@@ -45,7 +45,7 @@ int __cdecl main(void)
 	SOCKET ListenSocket = INVALID_SOCKET;
 	SOCKET ClientSocket = INVALID_SOCKET;
 
-	struct addrinfo *result = NULL;
+	struct addrinfo* result = NULL;
 	struct addrinfo hints;
 
 	int iSendResult;

@@ -8,9 +8,9 @@
 
 
 // Need to link with Ws2_32.lib, Mswsock.lib, and Advapi32.lib
-#pragma comment (lib, "Ws2_32.lib")
-#pragma comment (lib, "Mswsock.lib")
-#pragma comment (lib, "AdvApi32.lib")
+#pragma comment (lib, "WS2_32.Lib")
+#pragma comment (lib, "MsWSock.Lib")
+#pragma comment (lib, "AdvAPI32.Lib")
 
 
 #define DEFAULT_BUFLEN 512
@@ -38,12 +38,12 @@
 ** Ref: https://docs.microsoft.com/en-us/windows/win32/winsock/complete-client-code
 */
 
-int __cdecl main(int argc, char **argv)
+int __cdecl main(int argc, char** argv)
 {
 	WSADATA wsaData;
 	SOCKET ConnectSocket = INVALID_SOCKET;
-	struct addrinfo *result = NULL, *ptr = NULL, hints;
-	const char *sendbuf = "this is a test";
+	struct addrinfo* result = NULL, * ptr = NULL, hints;
+	const char* sendbuf = "this is a test";
 	char recvbuf[DEFAULT_BUFLEN];
 	int iResult;
 	int recvbuflen = DEFAULT_BUFLEN;

@@ -1,2 +1,2 @@
-- MathLibrary: Password for zip files: infected
+- MathLibrary
 - Ref: https://docs.microsoft.com/en-us/cpp/build/walkthrough-creating-and-using-a-dynamic-link-library-cpp?view=msvc-160

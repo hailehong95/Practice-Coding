@@ -1,3 +1,2 @@
 - Verifying the Signature of a PE File
-- Password for zip files: infected
 - Ref: https://docs.microsoft.com/en-us/windows/win32/seccrypto/example-c-program--verifying-the-signature-of-a-pe-file
